@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2eb48da8-4769-4e58-a6e3-0c2f55df8553" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AlgoDeSrpingBoot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio02-helloWolrd/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio02-helloWolrd/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio02-helloWolrd/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio02-helloWolrd/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio02-helloWolrd/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio02-helloWolrd/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio02-helloWolrd/src/main/java/com/roberto/rebolledo/ejercicio02/Ejercicio02HelloWolrdApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio02-helloWolrd/src/main/java/com/roberto/rebolledo/ejercicio02/HelloWorldController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio02-helloWolrd/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio02-helloWolrd/src/test/java/com/roberto/rebolledo/ejercicio02/Ejercicio02HelloWolrdApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Ejercicio02HelloWolrdApplication.executor": "Run",
-    "Maven. [install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "2-HelloWorld",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/rober/Desktop/AlgoDeSrpingBoot/ejercicio02-helloWolrd/pom.xml",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Ejercicio02HelloWolrdApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;2-HelloWorld&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rober/Desktop/AlgoDeSrpingBoot/ejercicio02-helloWolrd/pom.xml&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn install" />
